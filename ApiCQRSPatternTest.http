@@ -1,0 +1,6 @@
+@ApiCQRSPatternTest_HostAddress = http://localhost:5029
+
+GET {{ApiCQRSPatternTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
